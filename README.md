@@ -1,2 +1,5 @@
-# ibm-data-analyst
-Hands-on projects done in the IBM Data Analyst Professional Certificate course
+Skills gained:
+- Excel for Data Analysis
+- Data Visualization and Dashboards with Excel and IBM Cognos Analytics
+
+
